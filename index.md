@@ -36,3 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having Trouble with our program or want to make changes?
 View our app source code on GitHub and commit changes and for support please open up an issue on GitHub and me or the comminity will get to you as soon as possible!
+
+Please Note: If you want to make changes, distribute or use our program please make sure to folllow the GNU General Public License v3.0 as this is the liscence we use to ptotect our code. You can find a copy of that liscence on our GitHub page.
