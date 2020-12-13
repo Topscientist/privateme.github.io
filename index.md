@@ -38,8 +38,11 @@ Now, currently our app is still in beta and requires a visual upgraed however if
 **Bold** If you do not have IDLE installed then follow these steps:
 
 1) Open Terminal or similair.
+
 2) Know the folder that the program is located in (e.g: User/Downloads/PrivateMe.py)
+
 3) Mow type in: Python [PROGRAM LOCATION] then press enter. (e.g: Python User/Downloads/PrivateMe.py)
+
 4) And finnaly; Gibe it a few seconds then PrivateMe should boot up!
 
 ### Support or Contact
