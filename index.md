@@ -33,9 +33,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Now, currently our app is still in beta and requires a visual upgraed however if you woukd like to fun it then follow the steps below:
 
-**Bold** If you have IDLE intalled then folow these steps:
+**Bold If you have IDLE intalled then folow these steps:**
 
-**Bold** If you do not have IDLE installed then follow these steps:
+**Bold If you do not have IDLE installed then follow these steps:**
 
 1) Open Terminal or similair.
 
