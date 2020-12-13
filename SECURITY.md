@@ -10,6 +10,6 @@ If you think that you abe found a vunrebility then please follow the steps below
 
 First, Go to issues.
 
-Next, Create a new issue and select security vunrebility and fill in the infomation.
+Next, Create a new issue and select Report A Security Vulnerability in PrivateMe! and fill in the infomation.
 
 Finally, Submit the issue and the vunrebility will be patched ASAP.
