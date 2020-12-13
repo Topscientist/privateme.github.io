@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for PriavateMe!
+about: Suggest an idea for PrivateMe!
 title: Feature Request!
 labels: ''
 assignees: ''
