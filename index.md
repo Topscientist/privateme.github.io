@@ -1,13 +1,13 @@
 
 ## Welcome to the PriavteMe Webpage!
 
-Hello! And welcome to the PrivateMe website! Here you cna download the app and learn more about PtivateMe! But first off let me tell you what PrivateMe is all about.
+Hello! And welcome to the PrivateMe website! Here you can download the app and learn more about PtivateMe! But first off let me tell you what PrivateMe is all about.
 
 PrivateMe started at a small science fair as a project to educate everyone how to better protect your privacy and how to stay sare online but now we want yo shre our project on github and mae itmopen source so more pople can jodate dowload and accses our app. If you would like to accsess our app then plaese go go our [GitHub Page](https://github.com/Topscientist/privateme.github.io/) and download and run our cide, but if you would like to leran mire then read on!
 
 ### About Us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PrivateMe is a small, open source app created by 2 developers to help spread the word about how to keep safe and privtae online,  how to prevent yourself from getting hacked and so much more! 
 
 ```markdown
 Syntax highlighted code block
@@ -27,7 +27,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### How to run the PrivateMe app!
 
