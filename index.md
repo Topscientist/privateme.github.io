@@ -1,7 +1,7 @@
 
 ## Welcome to the PriavteMe Webpage!
 
-Hello! And welcome to the PrivateMe website! Here you cna download the app and learn more about private me! But first off let me tell you what PrivateMe is all about!
+Hello! And welcome to the PrivateMe website! Here you cna download the app and learn more about PtivateMe! But first off let me tell you what PrivateMe is all about.
 
 PrivateMe started at a small science fair as a project to educate everyone how to better protect your privacy and how to stay sare online but now we want yo shre our project on github and mae itmopen source so more pople can jodate dowload and accses our app. If you would like to accsess our app then plaese go go our [GitHub Page](https://github.com/Topscientist/privateme.github.io/) and download and run our cide, but if you would like to leran mire then read on!
 
